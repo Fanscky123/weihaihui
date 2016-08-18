@@ -1,3 +1,47 @@
-<header>
+<div class="cont">		
+<header class="search_h">
     乡情馆
 </header>
+
+<section>
+	<h1>
+		<img src="/weihaihui/img/cky2.jpg" alt="主题图片"  />
+	</h1>
+	
+	<div class="title">
+		<p>
+			<span>乡土风情</span>
+		</p>
+		</div>
+	
+	<!--图片列表-->
+	<ul>
+		<li>
+			<img src="/weihaihui/img/cky1.jpg" />
+			<p>薇海汇</p>
+			
+		</li>
+		
+		<li>
+			<img src="/weihaihui/img/cky1.jpg"/>
+			<p>薇海汇</p>
+			
+		</li>
+		
+		<li>
+			<img src="/weihaihui/img/cky1.jpg"/>
+			<p>薇海汇</p>
+			
+		</li>
+		
+		<li>
+			<img src="/weihaihui/img/cky1.jpg"/>
+			<p>薇海汇</p>
+			
+		</li>
+	</ul>
+</section>	
+	<footer class="bott">插入index页面的保留位子</footer>
+
+
+</div>
