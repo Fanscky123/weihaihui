@@ -1,5 +1,5 @@
 var indexList = require('../tpls/list.string');
 
-SPA.defineList('search', {
+SPA.defineView('list', {
   html: indexList
 });
