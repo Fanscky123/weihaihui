@@ -1,0 +1,26 @@
+<div class="m-index">
+  <div id="m-container"></div>
+  <footer>
+    <ul id="index-nav">
+      <li class="active" action-type='switch' data-name="home">
+
+        <b>首页</b>
+      </li>
+      <li action-type='switch' data-name="search">
+
+        <b>发现</b>
+      </li>
+      <li class="camera">
+
+      </li>
+      <li action-type='switch' data-name="my">
+
+        <b>我的</b>
+      </li>
+      <li>
+        
+        <b>退出</b>
+      </li>
+    </ul>
+  </footer>
+</div>
