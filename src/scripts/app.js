@@ -6,3 +6,4 @@ require('./views/index.js');
 require('./views/search.js');
 require('./views/my.js');
 require('./views/home.js');
+require('./views/list.js');
