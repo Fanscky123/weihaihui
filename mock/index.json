@@ -1,0 +1,239 @@
+{
+    "data": {
+        "adsList": [
+            {
+                "ad_id": "871",
+                "ad_name": "饮料~3",
+                "ad_link": "http://m.vsea.com.cn/goods/24662.html",
+                "ad_code": "http://static.vsea.com.cn/ad/2016/08/10/1470787864404399.jpg",
+                "target_type": "1",
+                "target_id": "24662",
+                "position_id": "425"
+            },
+            {
+                "ad_id": "1000",
+                "ad_name": "菜籽油~5",
+                "ad_link": "http://m.vsea.com.cn/goods/26234.html",
+                "ad_code": "http://static.vsea.com.cn/ad/2016/07/20/1468975461645364.jpg",
+                "target_type": "1",
+                "target_id": "26234",
+                "position_id": "425"
+            },
+            {
+                "ad_id": "1002",
+                "ad_name": "蜂蜜-广告位6",
+                "ad_link": "http://m.vsea.com.cn/goods/26638.html26638",
+                "ad_code": "http://static.vsea.com.cn/ad/2016/07/26/1469496506669921.jpg",
+                "target_type": "1",
+                "target_id": "26638",
+                "position_id": "425"
+            },
+            {
+                "ad_id": "1003",
+                "ad_name": "山羊腿",
+                "ad_link": "http://m.vsea.com.cn/goods/26445.html",
+                "ad_code": "http://static.vsea.com.cn/ad/2016/08/17/1471428280794852.jpg",
+                "target_type": "1",
+                "target_id": "26445",
+                "position_id": "425"
+            }
+        ],
+        "specList": [
+            {
+                "ad_id": "796",
+                "ad_name": "夏黑葡萄",
+                "ad_link": "http://m.vsea.com.cn/goods/17320.html",
+                "ad_code": "http://static.vsea.com.cn/ad/2016/07/13/1468375014401622.jpg",
+                "target_type": "1",
+                "target_id": "17320",
+                "position_id": "419"
+            },
+            {
+                "ad_id": "797",
+                "ad_name": "秒杀活动",
+                "ad_link": "http://m.vsea.com.cn/Activity/index/id/19.html",
+                "ad_code": "http://static.vsea.com.cn/ad/2016/08/10/1470794483319935.jpg",
+                "target_type": "5",
+                "target_id": "19",
+                "position_id": "420"
+            },
+            {
+                "ad_id": "806",
+                "ad_name": "9.9元专区",
+                "ad_link": "http://m.vsea.com.cn/Activity/index/id/21.html",
+                "ad_code": "http://static.vsea.com.cn/ad/2016/08/10/1470788590801669.jpg",
+                "target_type": "5",
+                "target_id": "21",
+                "position_id": "423"
+            },
+            {
+                "ad_id": "868",
+                "ad_name": "虾干",
+                "ad_link": "http://m.vsea.com.cn/Activity/index/id/20.html",
+                "ad_code": "http://static.vsea.com.cn/ad/2016/06/23/1466664436559295.jpg",
+                "target_type": "5",
+                "target_id": "20",
+                "position_id": "424"
+            }
+        ],
+        "brandData": {
+            "brandTitle": "超级品牌",
+            "brandList": [
+                {
+                    "ad_id": "798",
+                    "ad_name": "小町大米~1",
+                    "ad_link": "http://m.vsea.com.cn/goods/24512.html",
+                    "ad_code": "http://static.vsea.com.cn/ad/2016/06/16/1466065800161346.jpg",
+                    "target_type": "1",
+                    "target_id": "24512",
+                    "position_id": "421"
+                },
+                {
+                    "ad_id": "799",
+                    "ad_name": "布丁~2",
+                    "ad_link": "http://m.vsea.com.cn/goods/24007.html",
+                    "ad_code": "http://static.vsea.com.cn/ad/2016/06/29/1467184104714211.jpg",
+                    "target_type": "1",
+                    "target_id": "24007",
+                    "position_id": "421"
+                },
+                {
+                    "ad_id": "800",
+                    "ad_name": "台湾杨桃",
+                    "ad_link": "http://m.vsea.com.cn/goods/25233.html",
+                    "ad_code": "http://static.vsea.com.cn/ad/2016/06/29/1467184042673718.jpg",
+                    "target_type": "1",
+                    "target_id": "25233",
+                    "position_id": "421"
+                },
+                {
+                    "ad_id": "801",
+                    "ad_name": "油桃~4",
+                    "ad_link": "http://m.vsea.com.cn/goods/26646.html",
+                    "ad_code": "http://static.vsea.com.cn/ad/2016/08/12/1470980313568106.jpg",
+                    "target_type": "1",
+                    "target_id": "26646",
+                    "position_id": "421"
+                }
+            ]
+        },
+        "actData": {
+            "actTitle": "区域特色",
+            "actList": [
+                {
+                    "ad_id": "802",
+                    "ad_name": "牛肉干~1",
+                    "ad_link": "http://m.vsea.com.cn/goods/12955.html",
+                    "ad_code": "http://static.vsea.com.cn/ad/2016/06/29/1467185446160840.jpg",
+                    "target_type": "1",
+                    "target_id": "12955",
+                    "position_id": "422"
+                },
+                {
+                    "ad_id": "803",
+                    "ad_name": "老豆腐干~2",
+                    "ad_link": "http://m.vsea.com.cn/goods/25117.html",
+                    "ad_code": "http://static.vsea.com.cn/ad/2016/06/29/1467185528295167.jpg",
+                    "target_type": "1",
+                    "target_id": "25117",
+                    "position_id": "422"
+                },
+                {
+                    "ad_id": "804",
+                    "ad_name": "蓝莓酒~3",
+                    "ad_link": "http://m.vsea.com.cn/goods/25149.html",
+                    "ad_code": "http://static.vsea.com.cn/ad/2016/06/29/1467185569963064.jpg",
+                    "target_type": "1",
+                    "target_id": "25149",
+                    "position_id": "422"
+                },
+                {
+                    "ad_id": "805",
+                    "ad_name": "海参~4",
+                    "ad_link": "http://m.vsea.com.cn/goods/21772.html",
+                    "ad_code": "http://static.vsea.com.cn/ad/2016/06/29/1467185607716524.jpg",
+                    "target_type": "1",
+                    "target_id": "21772",
+                    "position_id": "422"
+                }
+            ]
+        },
+        "categoryList": [
+            {
+                "ad_id": "822",
+                "ad_name": "全部",
+                "ad_link": "#",
+                "ad_code": "http://static.vsea.com.cn/ad/2016/04/01/1459478007223669.png",
+                "target_type": "2",
+                "target_id": "0",
+                "position_id": "429"
+            },
+            {
+                "ad_id": "860",
+                "ad_name": "零食",
+                "ad_link": "#",
+                "ad_code": "http://static.vsea.com.cn/ad/2016/04/01/1459478157554646.png",
+                "target_type": "2",
+                "target_id": "1098",
+                "position_id": "429"
+            },
+            {
+                "ad_id": "861",
+                "ad_name": "饮品",
+                "ad_link": "#",
+                "ad_code": "http://static.vsea.com.cn/ad/2016/04/01/1459478194706411.png",
+                "target_type": "2",
+                "target_id": "1105",
+                "position_id": "429"
+            },
+            {
+                "ad_id": "862",
+                "ad_name": "果蔬",
+                "ad_link": "#",
+                "ad_code": "http://static.vsea.com.cn/ad/2016/04/01/1459478219620481.png",
+                "target_type": "2",
+                "target_id": "1112",
+                "position_id": "429"
+            },
+            {
+                "ad_id": "863",
+                "ad_name": "粮油",
+                "ad_link": "#",
+                "ad_code": "http://static.vsea.com.cn/ad/2016/04/01/1459478282604323.png",
+                "target_type": "2",
+                "target_id": "1116",
+                "position_id": "429"
+            },
+            {
+                "ad_id": "864",
+                "ad_name": "生鲜",
+                "ad_link": "#",
+                "ad_code": "http://static.vsea.com.cn/ad/2016/04/01/1459478312863364.png",
+                "target_type": "2",
+                "target_id": "1121",
+                "position_id": "429"
+            },
+            {
+                "ad_id": "865",
+                "ad_name": "滋补",
+                "ad_link": "#",
+                "ad_code": "http://static.vsea.com.cn/ad/2016/04/01/1459478349525614.png",
+                "target_type": "2",
+                "target_id": "1128",
+                "position_id": "429"
+            },
+            {
+                "ad_id": "866",
+                "ad_name": "水产",
+                "ad_link": "#",
+                "ad_code": "http://static.vsea.com.cn/ad/2016/04/01/1459478373215400.png",
+                "target_type": "2",
+                "target_id": "1132",
+                "position_id": "429"
+            }
+        ]
+    },
+    "status": 1,
+    "message": "",
+    "error_code": 0
+}

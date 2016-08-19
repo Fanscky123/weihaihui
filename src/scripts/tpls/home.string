@@ -1,1 +1,38 @@
-<div>home...</div>
+<header class="home-head">
+    <i></i>
+    <span>首页</span>
+    <i class='yo-ico'>&#xe64b;</i>
+</header>
+<div class="yo-switchable">
+    <ul class="cont">
+        <li class="item">
+            <img class="img" src="http://static.vsea.com.cn/ad/2016/08/10/1470787864404399.jpg" alt="美女" />
+        </li>
+        <li class="item">
+            <img class="img" src="http://static.vsea.com.cn/ad/2016/08/10/1470787864404399.jpg" alt="美女" />
+        </li>
+        <li class="item">
+            <img class="img" src="http://static.vsea.com.cn/ad/2016/08/10/1470787864404399.jpg" alt="美女" />
+        </li>
+        <li class="item">
+            <img class="img" src="http://static.vsea.com.cn/ad/2016/08/10/1470787864404399.jpg" alt="美女" />
+        </li>
+    </ul>
+    <ul class="index">
+        <li class="on"></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+</div>
+<ul class="category">
+  <li ms-repeat-el="livelist">
+    <div>
+      <img ms-src="el.ad_code" />
+      <p ms-text="el.ad_name"></p>
+    </div>
+  </li>
+</ul>
+<ul class="speclist">
+    <li ms-repeat-el="adlist"><img ms-src="el.ad_code"/></li>
+</ul>

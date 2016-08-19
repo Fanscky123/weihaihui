@@ -7,6 +7,7 @@ SPA.defineView('home', {
     name: 'avalon',
     options: function (vm) {
       vm.livelist = [];
+      vm.adlist=[];
     }
   }],
 
@@ -15,14 +16,16 @@ SPA.defineView('home', {
     'show': function () {
       var vm = this.getVM();
       $.ajax({
-        url: '/weihaihui/mock/livelist.json',
+        url: '/weihaihui/mock/index.json',
         type: 'get',
         data: {},
         success: function (res) {
-          vm.livelist = res.data;
+          vm.livelist = res.data.categoryList;
+          vm.adlist=res.data.specList;
+          console.log(res.data.specList)
         }
       })
-      var mySwiper = new Swiper('#home-swiper', {
+      /*var mySwiper = new Swiper('#home-swiper', {
         loop: false,
         onSlideChangeStart: function(swiper){
           var index = swiper.activeIndex;
@@ -31,7 +34,7 @@ SPA.defineView('home', {
       });
       $('#home-nav li').on('tap', function () {
         mySwiper.slideTo($(this).index());
-      });
+      });*/
     }
   }
 });
