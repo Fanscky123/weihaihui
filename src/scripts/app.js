@@ -7,3 +7,4 @@ require('./views/search.js');
 require('./views/my.js');
 require('./views/home.js');
 require('./views/list.js');
+require('./views/shopping.js');
